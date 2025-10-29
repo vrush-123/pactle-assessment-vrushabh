@@ -1,7 +1,7 @@
 # Pactle
 
 This repository contains the complete frontend assessment for the Pactle founding engineer role. It is a role-aware Quotation Management application built with React, TypeScript, Tailwind, and React Query, featuring optimistic updates, infinite scroll, and a role-based permission system.
-
+Assessment clip - https://res.cloudinary.com/dr8dfbwu8/video/upload/v1761737676/pactle_assignment_j28nqg.mov
 
 ## Features
 
